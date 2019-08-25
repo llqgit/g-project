@@ -1,2 +1,2 @@
-# g-project
-A web project based Gin framework with Golang.
+# prototype-gin
+A web prototype project based Gin framework with Golang.
